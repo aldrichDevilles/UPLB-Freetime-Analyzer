@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-, "components/StudentForm.tx", "app/api/route.js"  ],
+, "components/StudentForm.tx", "app/api/analyze/route.js"  ],
   "exclude": ["node_modules"]
 }

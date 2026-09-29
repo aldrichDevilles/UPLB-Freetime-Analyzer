@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import { GoogleGenerativeAI } from '/@google/generative-ai';
 import { StudentData } from '../../../components/StudentForm';
 
 const apiKey = process.env.GEMINI_API_KEY as string;
